@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\bin\Debug\net7.0\Exercicio Aluno - LLB 2F.exe
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\bin\Debug\net7.0\Exercicio Aluno - LLB 2F.deps.json
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\bin\Debug\net7.0\Exercicio Aluno - LLB 2F.runtimeconfig.json
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\bin\Debug\net7.0\Exercicio Aluno - LLB 2F.dll
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\bin\Debug\net7.0\Exercicio Aluno - LLB 2F.pdb
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\obj\Debug\net7.0\Exercicio Aluno - LLB 2F.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\obj\Debug\net7.0\Exercicio Aluno - LLB 2F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\obj\Debug\net7.0\Exercicio Aluno - LLB 2F.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\obj\Debug\net7.0\Exercicio Aluno - LLB 2F.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\obj\Debug\net7.0\Exercicio Aluno - LLB 2F.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\obj\Debug\net7.0\Exercicio Aluno - LLB 2F.dll
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\obj\Debug\net7.0\refint\Exercicio Aluno - LLB 2F.dll
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\obj\Debug\net7.0\Exercicio Aluno - LLB 2F.pdb
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\obj\Debug\net7.0\Exercicio Aluno - LLB 2F.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Exercicio Aluno - LLB 2F\obj\Debug\net7.0\ref\Exercicio Aluno - LLB 2F.dll

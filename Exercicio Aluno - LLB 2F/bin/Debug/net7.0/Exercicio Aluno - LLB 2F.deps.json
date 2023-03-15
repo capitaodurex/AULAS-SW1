@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Exercicio Aluno - LLB 2F/1.0.0": {
+        "runtime": {
+          "Exercicio Aluno - LLB 2F.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio Aluno - LLB 2F/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
