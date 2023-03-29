@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\atividade-produto\bin\Debug\net7.0\atividade-produto.exe
+C:\Users\LAB4\Desktop\atividade-produto\bin\Debug\net7.0\atividade-produto.deps.json
+C:\Users\LAB4\Desktop\atividade-produto\bin\Debug\net7.0\atividade-produto.runtimeconfig.json
+C:\Users\LAB4\Desktop\atividade-produto\bin\Debug\net7.0\atividade-produto.dll
+C:\Users\LAB4\Desktop\atividade-produto\bin\Debug\net7.0\atividade-produto.pdb
+C:\Users\LAB4\Desktop\atividade-produto\obj\Debug\net7.0\atividade-produto.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\atividade-produto\obj\Debug\net7.0\atividade-produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\atividade-produto\obj\Debug\net7.0\atividade-produto.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\atividade-produto\obj\Debug\net7.0\atividade-produto.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\atividade-produto\obj\Debug\net7.0\atividade-produto.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\atividade-produto\obj\Debug\net7.0\atividade-produto.dll
+C:\Users\LAB4\Desktop\atividade-produto\obj\Debug\net7.0\refint\atividade-produto.dll
+C:\Users\LAB4\Desktop\atividade-produto\obj\Debug\net7.0\atividade-produto.pdb
+C:\Users\LAB4\Desktop\atividade-produto\obj\Debug\net7.0\atividade-produto.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\atividade-produto\obj\Debug\net7.0\ref\atividade-produto.dll
