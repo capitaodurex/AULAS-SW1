@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\atividade-conta\bin\Debug\net7.0\atividade-conta.exe
+C:\Users\LAB4\Desktop\atividade-conta\bin\Debug\net7.0\atividade-conta.deps.json
+C:\Users\LAB4\Desktop\atividade-conta\bin\Debug\net7.0\atividade-conta.runtimeconfig.json
+C:\Users\LAB4\Desktop\atividade-conta\bin\Debug\net7.0\atividade-conta.dll
+C:\Users\LAB4\Desktop\atividade-conta\bin\Debug\net7.0\atividade-conta.pdb
+C:\Users\LAB4\Desktop\atividade-conta\obj\Debug\net7.0\atividade-conta.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\atividade-conta\obj\Debug\net7.0\atividade-conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\atividade-conta\obj\Debug\net7.0\atividade-conta.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\atividade-conta\obj\Debug\net7.0\atividade-conta.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\atividade-conta\obj\Debug\net7.0\atividade-conta.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\atividade-conta\obj\Debug\net7.0\atividade-conta.dll
+C:\Users\LAB4\Desktop\atividade-conta\obj\Debug\net7.0\refint\atividade-conta.dll
+C:\Users\LAB4\Desktop\atividade-conta\obj\Debug\net7.0\atividade-conta.pdb
+C:\Users\LAB4\Desktop\atividade-conta\obj\Debug\net7.0\atividade-conta.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\atividade-conta\obj\Debug\net7.0\ref\atividade-conta.dll
