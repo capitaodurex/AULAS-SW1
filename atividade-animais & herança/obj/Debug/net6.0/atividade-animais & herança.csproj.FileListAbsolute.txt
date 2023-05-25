@@ -1,0 +1,15 @@
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\bin\Debug\net6.0\atividade-animais & herança.exe
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\bin\Debug\net6.0\atividade-animais & herança.deps.json
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\bin\Debug\net6.0\atividade-animais & herança.runtimeconfig.json
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\bin\Debug\net6.0\atividade-animais & herança.dll
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\bin\Debug\net6.0\atividade-animais & herança.pdb
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\obj\Debug\net6.0\atividade-animais & herança.csproj.AssemblyReference.cache
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\obj\Debug\net6.0\atividade-animais & herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\obj\Debug\net6.0\atividade-animais & herança.AssemblyInfoInputs.cache
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\obj\Debug\net6.0\atividade-animais & herança.AssemblyInfo.cs
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\obj\Debug\net6.0\atividade-animais & herança.csproj.CoreCompileInputs.cache
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\obj\Debug\net6.0\atividade-animais & herança.dll
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\obj\Debug\net6.0\refint\atividade-animais & herança.dll
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\obj\Debug\net6.0\atividade-animais & herança.pdb
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\obj\Debug\net6.0\atividade-animais & herança.genruntimeconfig.cache
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-animais & herança\obj\Debug\net6.0\ref\atividade-animais & herança.dll
