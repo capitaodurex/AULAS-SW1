@@ -1,0 +1,15 @@
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\bin\Debug\net6.0\atividade-contratos & funcionarios.exe
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\bin\Debug\net6.0\atividade-contratos & funcionarios.deps.json
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\bin\Debug\net6.0\atividade-contratos & funcionarios.runtimeconfig.json
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\bin\Debug\net6.0\atividade-contratos & funcionarios.dll
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\bin\Debug\net6.0\atividade-contratos & funcionarios.pdb
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\obj\Debug\net6.0\atividade-contratos & funcionarios.csproj.AssemblyReference.cache
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\obj\Debug\net6.0\atividade-contratos & funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\obj\Debug\net6.0\atividade-contratos & funcionarios.AssemblyInfoInputs.cache
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\obj\Debug\net6.0\atividade-contratos & funcionarios.AssemblyInfo.cs
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\obj\Debug\net6.0\atividade-contratos & funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\obj\Debug\net6.0\atividade-contratos & funcionarios.dll
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\obj\Debug\net6.0\refint\atividade-contratos & funcionarios.dll
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\obj\Debug\net6.0\atividade-contratos & funcionarios.pdb
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\obj\Debug\net6.0\atividade-contratos & funcionarios.genruntimeconfig.cache
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-contratos & funcionarios\obj\Debug\net6.0\ref\atividade-contratos & funcionarios.dll
