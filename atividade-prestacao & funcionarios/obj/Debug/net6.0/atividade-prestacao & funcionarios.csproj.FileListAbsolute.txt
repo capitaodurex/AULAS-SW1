@@ -1,0 +1,15 @@
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\bin\Debug\net6.0\atividade-prestacao & funcionarios.exe
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\bin\Debug\net6.0\atividade-prestacao & funcionarios.deps.json
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\bin\Debug\net6.0\atividade-prestacao & funcionarios.runtimeconfig.json
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\bin\Debug\net6.0\atividade-prestacao & funcionarios.dll
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\bin\Debug\net6.0\atividade-prestacao & funcionarios.pdb
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\obj\Debug\net6.0\atividade-prestacao & funcionarios.csproj.AssemblyReference.cache
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\obj\Debug\net6.0\atividade-prestacao & funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\obj\Debug\net6.0\atividade-prestacao & funcionarios.AssemblyInfoInputs.cache
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\obj\Debug\net6.0\atividade-prestacao & funcionarios.AssemblyInfo.cs
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\obj\Debug\net6.0\atividade-prestacao & funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\obj\Debug\net6.0\atividade-prestacao & funcionarios.dll
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\obj\Debug\net6.0\refint\atividade-prestacao & funcionarios.dll
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\obj\Debug\net6.0\atividade-prestacao & funcionarios.pdb
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\obj\Debug\net6.0\atividade-prestacao & funcionarios.genruntimeconfig.cache
+C:\Users\Elber\OneDrive\Área de Trabalho\atividade-prestacao & funcionarios\obj\Debug\net6.0\ref\atividade-prestacao & funcionarios.dll
